@@ -1,0 +1,1 @@
+﻿define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/2021TaxUpdates.htm'],s:['$'],p:[['$',1],['title',0]]});
